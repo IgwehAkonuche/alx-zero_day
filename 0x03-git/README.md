@@ -1,1 +1,2 @@
-0x03-git readme
+# 0x03-git readme
+# THIS IS GIT PROJECT ROOT DIR 
